@@ -30,7 +30,7 @@ A little about me:
 [![Twitter](<https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white>)](<https://twitter.com/georgesanto>)
 [![Instagram](<https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white>)](<https://www.instagram.com/georgesant0>)
 [![Medium](<https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white>)](<https://medium.com/@georgesantos169>)
--->
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
 <div id="8890a1c30b759f0d247077448ef97888">
